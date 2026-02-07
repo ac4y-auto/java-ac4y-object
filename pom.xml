@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ac4y.base</groupId>
 	<artifactId>ac4y-object</artifactId>
-	<version>1.0.20260207.1</version>
+	<version>1.0.20260207.2</version>
 	<name>JAc4yObject</name>
 	<description>JAXB-compatible container classes for managing lists of ac4y domain objects</description>
 	<url>https://github.com/ac4y/JAc4yObject</url>
